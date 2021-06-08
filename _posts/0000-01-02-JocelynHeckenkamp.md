@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+##Happy graduation class of 2021!
 Use the left arrow to go back!
